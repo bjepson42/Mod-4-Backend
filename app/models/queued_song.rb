@@ -1,0 +1,2 @@
+class QueuedSong < ApplicationRecord
+end
